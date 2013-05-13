@@ -1,4 +1,4 @@
-OrthogBias-Illision
+OrthogBias-Illusion
 ===================
 
-Modifying Iuchis Illusion to study orthogonbal bias
+Modifying Ouchi Illusion to study orthogonal bias in MATLAB.
